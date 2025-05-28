@@ -7,4 +7,9 @@ date:
 aliases:
   - Page Aliases
 ---
-This documentation is under construction, please check back again later! 
+
+
+# 🚀 Getting Started with IcarusEye
+![[IcarusEye-Banner.svg]]
+
+---
