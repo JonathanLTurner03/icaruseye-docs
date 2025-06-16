@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "IcarusEye Docs",
-    pageTitleSuffix: "- IcarusEye Docs",
+    pageTitle: "IcarusEye Documentation",
+    pageTitleSuffix: " - IcarusEye",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
